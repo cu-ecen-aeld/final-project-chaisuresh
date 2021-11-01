@@ -7,7 +7,7 @@ The goal of this project is to create a 2D object scanner by creating a 10x10 ar
 [Project Overview](https://github.com/cu-ecen-aeld/final-project-chaisuresh/wiki/Project-Overview)
 
 # Project Schedule
-[Schedule Page](https://github.com/cu-ecen-aeld/final-project-chaisuresh/wiki/Project-Schedule)
+[Project Schedule](https://github.com/cu-ecen-aeld/final-project-chaisuresh/wiki/Project-Schedule)
 
 # Source Code Organization
 * [Buildroot Repository for Transmitter](https://github.com/cu-ecen-aeld/final-project-chaisuresh) 
