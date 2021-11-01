@@ -12,6 +12,6 @@ The goal of this project is to create a 2D object scanner by creating a 10x10 ar
 # Source Code Organization
 * [Buildroot Repository for Transmitter](https://github.com/cu-ecen-aeld/final-project-chaisuresh) 
 * [Buildroot Repository for Receiver](https://github.com/cu-ecen-aeld/final-project-Sharath-Jonnala)
-* [Shared Repository](https://github.com/cu-ecen-aeld/final-project-Sharath-Jonnala) - This is temporary link needs to be edited
+* [Shared Repository](https://github.com/cu-ecen-aeld/final-project-chaithra-sharath) 
 
 
