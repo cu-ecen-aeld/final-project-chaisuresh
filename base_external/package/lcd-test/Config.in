@@ -1,4 +1,4 @@
-config BR2_PACKAGE_AESD_ASSIGNMENTS
+config BR2_PACKAGE_LCD_TEST
 	bool "lcd-test"
 	help
 	  to test lcd application on rpi
