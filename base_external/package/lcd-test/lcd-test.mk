@@ -6,11 +6,11 @@
 ##############################################################
 
 #TODO: Fill up the contents below in order to reference your assignment 3 git contents
-LCD_TEST_VERSION = 1364a3601b488c8b1e79ba3bd100f0889c24f15f 
+LCD_TEST_VERSION = '7b8a923633bd3cdf9092d5273ca4ed358bdc0179'
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
-LCD_TEST_SITE = git@github.com:cu-ecen-aeld/final-project-chaithra-sharath.git
+LCD_TEST_SITE = 'git@github.com:cu-ecen-aeld/final-project-chaithra-sharath.git'
 LCD_TEST_SITE_METHOD = git
 LCD_TEST_GIT_SUBMODULES = YES
 
