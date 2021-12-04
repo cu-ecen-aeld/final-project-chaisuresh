@@ -1,2 +1,3 @@
 source "$BR2_EXTERNAL_project_base_PATH/package/lcd-test/Config.in"
-
+source "$BR2_EXTERNAL_project_base_PATH/package/clientsocket/Config.in"
+source "$BR2_EXTERNAL_project_base_PATH/package/server/Config.in"

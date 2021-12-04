@@ -1,0 +1,4 @@
+config BR2_PACKAGE_CLIENTSOCKET
+	bool "clientsocket"
+	help
+	  to test socket comm in client on rpi
