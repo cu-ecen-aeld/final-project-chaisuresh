@@ -6,7 +6,7 @@
 ##############################################################
 
 #TODO: Fill up the contents below in order to reference your assignment 3 git contents
-CLIENTSOCKET_VERSION = '9f1f5648c20353294136315c9be3e7bf79577f9c'
+CLIENTSOCKET_VERSION = '5002765c56e2d23919811f4ad49a7f5c96c8463f'
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
