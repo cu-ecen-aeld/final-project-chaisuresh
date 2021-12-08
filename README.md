@@ -11,3 +11,7 @@
 * [Buildroot Repository for Transmitter](https://github.com/cu-ecen-aeld/final-project-chaisuresh) 
 * [Buildroot Repository for Receiver](https://github.com/cu-ecen-aeld/final-project-Sharath-Jonnala)
 * [Shared Repository](https://github.com/cu-ecen-aeld/final-project-chaithra-sharath) 
+
+## Demo video
+* [Chaithra Demo video](https://github.com/cu-ecen-aeld/final-project-chaithra-sharath/wiki/Chaithra-Suresh-Demo-Video)
+* [Sharath Demo video](https://github.com/cu-ecen-aeld/final-project-chaithra-sharath/wiki/Sharath-Jonnala-DemoVideo)
