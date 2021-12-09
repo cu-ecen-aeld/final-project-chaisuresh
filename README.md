@@ -12,6 +12,10 @@
 * [Buildroot Repository for Receiver](https://github.com/cu-ecen-aeld/final-project-Sharath-Jonnala)
 * [Shared Repository](https://github.com/cu-ecen-aeld/final-project-chaithra-sharath) 
 
-## Demo video
+## Demo outline link
 * [Chaithra Demo video](https://github.com/cu-ecen-aeld/final-project-chaithra-sharath/wiki/Chaithra-Suresh-Demo-Video)
 * [Sharath Demo video](https://github.com/cu-ecen-aeld/final-project-chaithra-sharath/wiki/Sharath-Jonnala-DemoVideo)
+
+
+## Demo video
+[Google drive link to video](https://drive.google.com/file/d/1wYzMX-h_7sxUKfBf0EAS1R-j5JIcwm7U/view?usp=sharing)
