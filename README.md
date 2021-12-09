@@ -13,8 +13,8 @@
 * [Shared Repository](https://github.com/cu-ecen-aeld/final-project-chaithra-sharath) 
 
 ## Demo outline link
-* [Chaithra Demo video](https://github.com/cu-ecen-aeld/final-project-chaithra-sharath/wiki/Chaithra-Suresh-Demo-Video)
-* [Sharath Demo video](https://github.com/cu-ecen-aeld/final-project-chaithra-sharath/wiki/Sharath-Jonnala-DemoVideo)
+* [Chaithra Demo outline](https://github.com/cu-ecen-aeld/final-project-chaithra-sharath/wiki/Chaithra-Suresh-Demo-Video)
+* [Sharath Demo outline](https://github.com/cu-ecen-aeld/final-project-chaithra-sharath/wiki/Sharath-Jonnala-DemoVideo)
 
 
 ## Demo video
